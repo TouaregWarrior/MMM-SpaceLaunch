@@ -1,3 +1,12 @@
+//MMM-SpaceLaunch.js:
+
+/* Magic Mirror
+ * Module: MMM-SpaceLaunch
+ *
+ * By TouaregWarrior
+ * MIT Licensed.
+ */
+
 Module.register("MMM-SpaceLaunch", {
     defaults: {
         updateInterval: 3600000,  // Update every 1 hour
