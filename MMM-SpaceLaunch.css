@@ -1,0 +1,29 @@
+.spacex-wrapper {
+    font-size: 18px;  /* Larger font size for main text (similar to Trip Countdown) */
+    line-height: 1.3em;  /* Adjust line height for good spacing with the larger font */
+    color: white;  /* Main text color */
+    text-align: left;  /* Left-align the content */
+    font-family: "Roboto Condensed", sans-serif;  /* Use the same clean, modern font */
+}
+
+.module-header {
+    font-size: 20px;  /* Slightly larger font for the header */
+    font-weight: bold;
+    color: #ccc;
+    margin-bottom: 5px;
+}
+
+.underline {
+    border: 1px solid #555;
+    margin-bottom: 10px;
+}
+
+.highlight {
+    color: #FFD700;  /* Gold color for highlights */
+    font-weight: bold;
+}
+
+p {
+    margin: 0;  /* Remove additional space between paragraphs */
+    font-size: 16px;  /* Similar size to the days countdown text */
+}
