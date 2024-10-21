@@ -2,7 +2,8 @@
  
 A [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) module that displays the next scheduled spacecraft launch
 
-![screenshot](MMM-SpaceLaunch.png)
+![image](https://github.com/user-attachments/assets/1252e88c-0bdd-4ec5-9baa-9e54d480f5c4)
+
 
 ## Installation
 
